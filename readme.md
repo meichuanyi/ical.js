@@ -8,7 +8,7 @@ A tolerant, minimal icalendar parser for javascript/node
 
 ## Install - Node.js ##
 
-ical.js is availble on npm:
+ical.js is available on npm:
 
     npm install ical
 
